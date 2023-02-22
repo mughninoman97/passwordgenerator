@@ -11,6 +11,7 @@ FULL WEBPAGE:
 ## Technologies Used
 
 ![html](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg "html logo")
+![css](https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg "html logo")
 ![javascript](https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg "javascript")
 
 
