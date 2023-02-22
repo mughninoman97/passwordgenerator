@@ -2,7 +2,7 @@
 
 This is _**Password Generator project**_ of Web Development. In this project, the user is asked to provide input of the required fields and a password is generated on the basis of the input provided. In this project I have learnt *Logic Building * in JavaScript.
 
->[Check out the live website here](https://paytm-clone-by-noman.netlify.app/)
+>[Check out the live website here](https://password-generator-by-noman.netlify.app/)
 
 FULL WEBPAGE:
 ![Project ](./Image/Project.png "proj paytm image")
